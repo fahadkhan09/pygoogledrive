@@ -10,6 +10,7 @@ Project Info
 
 - Homepage: `https://pypi.python.org/pypi/PyGoogleDrive <https://pypi.python.org/pypi/PyGoogleDrive>`_
 - GitHub: `https://github.com/fahadkhan09/pygoogledrive <https://github.com/fahadkhan09/PyGoogleDrive>`_
+- ReadTheDocs: `https://pygoogledrive.readthedocs.io/en/latest/ <https://pygoogledrive.readthedocs.io/en/latest/>`_
 
 Features of PyGoogleDrive
 -------------------------
